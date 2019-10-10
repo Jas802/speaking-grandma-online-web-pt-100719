@@ -9,6 +9,8 @@ elsif phrase.upcase
 elsif phrase == "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN!"
 
+else phrase == "Hi!"
+  return "HUH?! SPEAK UP, SONNY!"
 
 
 end
