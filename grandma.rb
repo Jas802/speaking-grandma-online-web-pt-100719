@@ -2,7 +2,7 @@
 def speak_to_grandma(phrase)
 if phrase == "Hello, how are you?"
   puts "HUH?! SPEAK UP, SONNY!"
-  
+
 end
 end
 # Whatever you say to grandma, she should respond with
